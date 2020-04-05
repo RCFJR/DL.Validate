@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>dev.loops.validate</id>
+    <version>1.0.0</version>
+    <authors>Roberto Fernandes</authors>
+    <owners>Roberto Fernandes</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net model validate</description>
+    <releaseNotes>No changes.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+</package>

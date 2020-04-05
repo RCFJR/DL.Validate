@@ -1,0 +1,5 @@
+C:\Users\Roberto\source\repos\DL.Validate\DL.Validate\bin\Release\DL.Validate.dll
+C:\Users\Roberto\source\repos\DL.Validate\DL.Validate\bin\Release\DL.Validate.pdb
+C:\Users\Roberto\source\repos\DL.Validate\DL.Validate\obj\Release\DL.Validate.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\DL.Validate\DL.Validate\obj\Release\DL.Validate.dll
+C:\Users\Roberto\source\repos\DL.Validate\DL.Validate\obj\Release\DL.Validate.pdb
